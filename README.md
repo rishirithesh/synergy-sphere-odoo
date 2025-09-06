@@ -29,7 +29,7 @@
 11. The computer acts as the owner and other devices act as the member
 12. Functionalities are explained in the video : https://drive.google.com/file/d/10GQc6cg7kF2zZjKOh8dB_v7xMDKziVk5/view?usp=sharing
 
-## Video Link  : https://drive.google.com/file/d/10GQc6cg7kF2zZjKOh8dB_v7xMDKziVk5/view?usp=sharing
+#### Video Link  : https://drive.google.com/file/d/10GQc6cg7kF2zZjKOh8dB_v7xMDKziVk5/view?usp=sharing
 
 # About
 
