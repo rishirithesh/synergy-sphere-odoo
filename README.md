@@ -10,4 +10,8 @@
 ## Functionalities : 
  - User Interface (Splice Animations, Tailwind CSS)
  - Sign Up/Login Page (Reflecting in PostgreSQL Database)
- - Dashboard 
+ - Dashboard
+ - Registered Members are all in one team
+ - Project Creation
+ - Task Creation (Assigning to a member of the team)
+   
