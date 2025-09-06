@@ -8,3 +8,5 @@
  - Python
 
 ## Functionalities : 
+ - Sign Up/Login Page (Reflecting in PostgreSQL Database)
+ - Dashboard 
