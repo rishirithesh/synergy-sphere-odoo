@@ -27,9 +27,9 @@
 9. You can run this on the local device by finding the ip of your computer device (cmd->ipconfig->ip4--->ip:PORT)
 10. The webpage is now active on the computer and in the mobile device
 11. The computer acts as the owner and other devices act as the member
-12. Functionalities are explained in the video : 
+12. Functionalities are explained in the video : https://drive.google.com/file/d/10GQc6cg7kF2zZjKOh8dB_v7xMDKziVk5/view?usp=sharing
 
-## Video Link  : 
+## Video Link  : https://drive.google.com/file/d/10GQc6cg7kF2zZjKOh8dB_v7xMDKziVk5/view?usp=sharing
 
 # About
 
