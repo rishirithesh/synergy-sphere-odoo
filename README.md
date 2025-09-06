@@ -8,6 +8,8 @@
  - Python
 
 ## Functionalities : 
- - User Interface (Splice Animations, Tailwind CSS)
+ - User Interface (Tailwind CSS)
  - Sign Up/Login Page (Reflecting in PostgreSQL Database)
- - Dashboard 
+ - Dashboard
+ - Create Project (Reflects in PostgreSQL Database and in Dashboard)
+ - Assign Task within Project (Can choose assignee and due date, Reflects in PostgreSQL Database and in Dashboard)
