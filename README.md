@@ -8,5 +8,6 @@
  - Python
 
 ## Functionalities : 
+ - User Interface (Splice Animations, Tailwind CSS)
  - Sign Up/Login Page (Reflecting in PostgreSQL Database)
  - Dashboard 
