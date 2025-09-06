@@ -1,5 +1,5 @@
 import { sql, relations } from "drizzle-orm";
-import { pgTable, text, varchar, timestamp, integer, boolean } from "drizzle-orm/pg-core";
+import { pgTable, text, varchar, timestamp, integer, boolean, date } from "drizzle-orm/pg-core";
 import { createInsertSchema } from "drizzle-zod";
 import { z } from "zod";
 
@@ -19,8 +19,8 @@ export const projects = pgTable("projects", {
   ownerId: varchar("owner_id").references(() => users.id).notNull(),
   icon: text("icon").default("fas fa-folder"),
   status: text("status").default("active"),
-  startDate: timestamp("start_date"),
-  dueDate: timestamp("due_date"),
+  startDate: date("start_date"),
+  dueDate: date("due_date"),
   createdAt: timestamp("created_at").defaultNow().notNull(),
 });
 
@@ -41,7 +41,7 @@ export const tasks = pgTable("tasks", {
   status: text("status").default("to-do"), // to-do, in-progress, done
   priority: text("priority").default("medium"), // low, medium, high
   tags: text("tags").array().default(sql`'{}'::text[]`),
-  dueDate: timestamp("due_date"),
+  dueDate: date("due_date"),
   createdAt: timestamp("created_at").defaultNow().notNull(),
   updatedAt: timestamp("updated_at").defaultNow().notNull(),
 });
