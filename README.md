@@ -29,20 +29,10 @@
 11. The computer acts as the owner and other devices act as the member
 12. Functionalities are explained in the video : 
 
+## Video Link  : 
+
+# About
+
+SynergySphere is a web/mobile application developed by Rohit Raj and Rishi R for the Odoo X NMIT Hackathon 2025. This is licensed under the MIT License.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Video Link : 
